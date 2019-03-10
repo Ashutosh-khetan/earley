@@ -5,3 +5,6 @@ VP -> V
 VP -> V NP
 VP -> V PP
 PP -> P NP
+V -> book
+DET -> that
+N -> flight
